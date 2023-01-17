@@ -1,0 +1,16 @@
+User: admin
+Total number of task : 2
+Total completed task : 0
+Total overdue task : 2
+Percentage of total task assigned: 40.0
+Percentage of task assigned that has been completed: 0.0
+Percentage of task assigned that must still be completed: 100.0
+Percentage of task assigned that are overdue: 100.0
+User: will
+Total number of task : 3
+Total completed task : 1
+Total overdue task : 1
+Percentage of total task assigned: 60.0
+Percentage of task assigned that has been completed: 33.33
+Percentage of task assigned that must still be completed: 66.67
+Percentage of task assigned that are overdue: 33.33
